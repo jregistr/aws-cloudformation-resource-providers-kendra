@@ -16,7 +16,7 @@ out/
 # auto-generated files
 target/
 
-# our logs
+# our logs file(s)
 rpdk.log
 
 # local testing file(s)
